@@ -1,0 +1,9 @@
+main: me.rcj0003.deathcry.DeathCryPlugin
+name: DeathCry
+version: 1.0.0
+author: rcj0003
+description: DeathCry
+commands:
+  deathcry:
+    description: Primary command.
+    usage: /deathcry
